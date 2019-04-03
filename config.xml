@@ -2,19 +2,19 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
   xmlns:gap = "http://phonegap.com/ns/1.0"
-  id = "com.phonegap.app3"
+  id = "com.phonegap.app2"
   version = "1.0.0">
   
-  <name> app3-Dia Mundial de la Salud</name>
+  <name> app2-Especialidad Técnico en Programación </name>
   
   <description>
-   Aplicacion que muestra informacion sobre el Día Mundial de la Salud
+   Aplicacion que muestra informacion sobre la especialidad de Técnico en Programación CBTis
    </description>
    
    <author href="https://build.phonegap.com" email="cb16.delacruzespinosa.miguela@gmail.com">
     De La Cruz Espinosa Miguel Angel
 	</author>
-	
+	<!--que onda con esto jajaja-->
 	<!--Personaliza la aplicacion y plataforma -->
 	<preference name="orientation"  value="default"/>
 	<!--<preference name="orientation" value="portrait"/>
